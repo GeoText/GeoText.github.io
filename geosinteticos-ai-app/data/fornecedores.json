@@ -1,0 +1,31 @@
+[
+  {
+    "nome": "Fornecedor Exemplo A",
+    "tipo": [
+      "online",
+      "fisico"
+    ],
+    "cidade": "Natal",
+    "uf": "RN",
+    "site": "https://exemplo.com",
+    "produtos": [
+      "Geotêxtil",
+      "Geogrelha"
+    ],
+    "observacao": "Registro demonstrativo. Substituir por fornecedor validado."
+  },
+  {
+    "nome": "Fornecedor Exemplo B",
+    "tipo": [
+      "online"
+    ],
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "site": "https://exemplo.org",
+    "produtos": [
+      "Geotêxtil",
+      "Geomembrana"
+    ],
+    "observacao": "Registro demonstrativo. Substituir por fornecedor validado."
+  }
+]
