@@ -1,1 +1,0 @@
-# GeoText-geotext.github.io
